@@ -1,0 +1,4 @@
+PluginApkApp/app/proguard-rules.pro
+PluginApkApp/app/src/test/java/com/ygsoft/pluginapk/pluginapkapp/ExampleUnitTest.java
+PluginApp/app/proguard-rules.pro
+PluginApp/app/src/test/java/com/ygsoft/pluginapp/pluginapp/ExampleUnitTest.java
